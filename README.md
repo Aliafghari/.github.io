@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> , I'm Ali Afghari</h1>
 <h3 align="center">Passionate web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliafghari&label=Profile%20views&color=0e75b6&style=flat" alt="aliafghari" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aliafghari&label=Profile%20views&color=0e75b6&style=flat" alt="aliafghari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliafghari" alt="aliafghari" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliafghari" alt="aliafghari" /></a> </p>
 
 - 🌱 I’m currently learning **js**
 
@@ -12,7 +12,7 @@
 - 📫 How to reach me **aliafghari4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/علی-افقری-633371264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="علی-افقری-633371264" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@aliafghari4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aliafghari4" height="30" width="40" /></a>
 </p>
